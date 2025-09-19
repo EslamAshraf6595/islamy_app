@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#202020"
+  image: assets/images/vative.png
+  
+
+  android_12:
+    image: assets/images/vative.png
+    icon_background_color: "#202020"
+    
+  web: false
